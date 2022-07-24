@@ -25,7 +25,7 @@ Project created by <a href="https://github.com/TURBOHYPER">Turbo</a> to make it 
 <a href="https://github.com/TURBOHYPER/Toxic-Alexa_V3"><img title="Open Source" src="https://img.shields.io/badge/Author-Turbo%20Mods%20Inc.-red?v=103"></a>
 <a href="https://github.com/TURBOHYPER/Toxic-Alexa_V3/"><img title="Size" src="https://img.shields.io/github/repo-size/TURBOHYPER/Toxic-Alexa_V3?style=flat-square&color=green"></a>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FTURBOHYPER%2FToxic-Alexa_V3&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
-<a href="https://github.com/mido-11/Toxic-Alexa_V3/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
+<a href="https://github.com/Mido-11/Toxic-Alexa_V3/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 </p>
 <p align='center'>
     </p>
